@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": ["../src/Page.tsx"],
+  "sourcesContent": [
+    "import \"./page.css\";\n\nexport default function Page() {\n    return <>Hello World!</>;\n}"
+  ],
+  "mappings": ";;;;;;;AAEA,SAAwB,IAAI,GAAG;AAAA,EAC3B,uBAAO;AAAA;AAAA,sCAAgB;AAAA;",
+  "debugId": "6FFF1A2F9E38643964756E2164756E21",
+  "names": []
+}
