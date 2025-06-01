@@ -1,5 +1,8 @@
 # bun-react-template
 
+SEE BUG HERE
+https://github.com/mitchs-pretty-awesome-computer-things/bun-build-lazy-loading-bug-repro/blob/7d0eb5f1468ab1d8c99ec5286b18dfddad50896b/dist/App-9z9k26a4.js#L84
+
 To install dependencies:
 
 ```bash
